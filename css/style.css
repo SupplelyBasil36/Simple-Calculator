@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: gray;
+}
+.container {
+    background-color: rgb(49, 49, 49);
+    margin: 20px auto auto auto;
+    width: 50%;
+    height: 500px;
+    padding-top: 50px;
+}
+
+.windowR {
+    background-color: aqua;
+    width: 80% ;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+#number1 {
+    text-align: right;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+
+.numberPad {   
+    width: 90% ;
+    height: 360px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.numberPad__first {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+}
+
+.numberPad__first li{
+    display: inline;
+    margin-left: 15px;
+}
+
+.numberPad__second {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+}
+
+.numberPad__second li{
+    display: inline;
+    margin-left: 15px;
+}
+
+.numberPad__third {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+}
+
+.numberPad__third li{
+    display: inline;
+    margin-left: 15px;
+}
+
+.numberPad__fourth {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+}
+.numberPad__fourth li{
+    display: inline;
+    margin-left: 15px;
+}
+
+.numberPad__fifth {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+}
+
+.numberPad__fifth li{
+    display: inline;
+    margin-left: 15px;
+}
+
+.numberPad__first-B {
+    background-color: rgb(87, 87, 253);
+    width: 80px;
+    height: 50px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.numberPad__first-Blarge {
+    background-color: rgb(87, 87, 253);
+    width: 340px;
+    height: 50px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
